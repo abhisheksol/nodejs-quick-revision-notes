@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(209, 55, 55);
+    display: flex;
+}
+.btn{
+    margin-top: 50%;
+    margin-left: 50%;
+    height: 40px;
+    width: 90px;
+    border-radius: 15px;
+    box-shadow: 50px,15px,15px rgb(252, 1, 1);
+    display: block;
+}
+.btn2{
+    margin-top: 5%;
+    margin-left: 50%;
+    height: 40px;
+    width: 90px;
+    border-radius: 15px;
+    box-shadow: 50px,15px,15px rgb(252, 1, 1);
+}
+.box{
+    background-color: chartreuse;
+    border: 5px solid red;
+    border-radius: 40px;
+}
+input{
+    margin: 100px;
+}

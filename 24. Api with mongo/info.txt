@@ -1,0 +1,5 @@
+there are major 4 api are there 
+-->get-->get data from db
+-->post->to save data in db
+-->put-> t0 update data db
+-->delete-> to del data db

@@ -1,0 +1,13 @@
+// react mada java ami data update karncha praytana karto variable through: 
+// --->
+// let data=14
+// function {
+//     let data=13
+// }
+// 
+// ******************html******************
+// <h1>{data}</h1> he data click dabla var update hota nahi// mange ta rerender honar nahi(ajun akada render honar nahi)
+{/* <button onClick={function}>click</button> */} 
+
+// ================================================================================================================
+// taya data update karna sathi amla ak storage provide karte state (ajun akada render honar state muya)

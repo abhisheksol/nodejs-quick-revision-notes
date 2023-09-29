@@ -1,0 +1,18 @@
+mongoose limition hotaya mongodb mada ta fix karta
+1.user ja dila la field ahe tavada cha field senter karu shakto extra nahi
+2. integer cha jagi string nahi galo shakta 
+3.etc
+
+mongoose mada schema asta 
+1. scheme:-scheme defines number of feids taki validations apply hova
+2. models:-schemes la use karun nodejs ani mongodb la connect karta
+
+
+1.package import karcha 
+2.async funtion
+3.function mada mongoose la mongodb la connect karcha "await mongoose.connect("local...../e+com")"
+4.scheme create karcha {mongo.scheme({name:"type"-->int,str,,etc})}
+
+5.ata ak instance create karcha tya mada varcha schema ani collection nav pass karcha 
+6.data insert karcha 
+7..save() karcha 

@@ -1,0 +1,7 @@
+java ami ak """component""" export karto app.js mada ,ami app.js mada data pass karu shakto """component""" la cha file la
+
+
+1. he ak parameter vani cha samaja -->eg java ami 
+function(data){......}
+                  -------> obj.function("abhishek") asch props pan kam ahe he obj app.js samja 
+                titun ami data pass karu shakto functional component la 

@@ -1,0 +1,1 @@
+21.   (3:07:27​) render life cycle in React js      --->code step by step
